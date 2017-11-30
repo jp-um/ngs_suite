@@ -11,5 +11,5 @@ You will require
 The following dependencies need to be installed:
 
 ```
-sudo pip3 -H install psycopg2 pyvcf
+sudo -H pip3 install psycopg2 pyvcf
 ```
